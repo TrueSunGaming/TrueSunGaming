@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! I'm TrueSunGaming.
 
-<!--
-**TrueSunGaming/TrueSunGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find my projects **[here](https://truesungaming.github.io)** and I own [Tristable](https://github.com/Tristable).
 
-Here are some ideas to get you started:
+## Some Stuff I Made
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Website](https://truesungaming.github.io) ([Source Code](https://github.com/TrueSunGaming/truesungaming.github.io)) - A page with links to everything I made.
+* [Desmos Expression Compiler](https://truesungaming.github.io/desmos-expression-compiler) ([Source Code](https://github.com/TrueSunGaming/desmos-expression-compiler)) - A Lisp-like programming language and code editor for creating [Desmos](https://desmos.com/calculator) graphs.
+* [Learn Pi](https://truesungaming.github.io/learn-pi) ([Source Code](https://github.com/TrueSunGaming/learn-pi)) - A fun way to learn up to 1000 digits of pi.
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=TrueSunGaming&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
