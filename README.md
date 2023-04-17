@@ -10,6 +10,6 @@ You can find my projects **[here](https://truesungaming.github.io)** and I own [
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TrueSunGaming&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=TrueSunGaming&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
