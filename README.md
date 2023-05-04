@@ -1,4 +1,6 @@
-# Hi! I'm TrueSunGaming.
+# Hi! I'm Matthew, known online as TrueSunGaming.
+
+I mainly work JavaScript, TypeScript, Rust, and C++ .
 
 You can find my projects **[here](https://truesungaming.github.io)** and I own [Tristable](https://github.com/Tristable).
 
@@ -7,6 +9,10 @@ You can find my projects **[here](https://truesungaming.github.io)** and I own [
 * [Website](https://truesungaming.github.io) ([Source Code](https://github.com/TrueSunGaming/truesungaming.github.io)) - A page with links to everything I made.
 * [Desmos Expression Compiler](https://truesungaming.github.io/desmos-expression-compiler) ([Source Code](https://github.com/TrueSunGaming/desmos-expression-compiler)) - A Lisp-like programming language and code editor for creating [Desmos](https://desmos.com/calculator) graphs.
 * [Learn Pi](https://truesungaming.github.io/learn-pi) ([Source Code](https://github.com/TrueSunGaming/learn-pi)) - A fun way to learn up to 1000 digits of pi.
+
+## What I'm working on
+
+* Tristable Engine ([Source Code](https://github.com/Tristable/tristable-engine)) - A 2D JS/TS game engine for making simple games. Planned to be published on NPM by the end of May 2023.
 
 ## GitHub Stats
 
