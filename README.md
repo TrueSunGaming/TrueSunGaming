@@ -11,10 +11,6 @@ You can find my projects **[here](https://truesungaming.github.io)** and I own [
 * [Learn Pi](https://truesungaming.github.io/learn-pi) ([Source Code](https://github.com/TrueSunGaming/learn-pi)) - A fun way to learn up to 1000 digits of pi.
 * [Tristable Engine](https://npmjs.org/package/tristable-engine) ([Source Code](https://github.com/Tristable/tristable-engine)) - A 2D JS/TS game engine for making simple HTML5 games.
 
-## What I'm working on
-
-* [Tristable Engine](https://npmjs.org/package/tristable-engine) ([Source Code](https://github.com/Tristable/tristable-engine)) - A 2D JS/TS game engine for making simple games.
-
 ## GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=TrueSunGaming&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
