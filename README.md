@@ -1,6 +1,6 @@
 # Hi! I'm Matthew, known online as TrueSunGaming.
 
-I mainly work with JavaScript, TypeScript, Rust, and C++ .
+I mainly work with JavaScript, TypeScript, Rust, C++, and Svelte.
 
 You can find my projects **[here](https://truesungaming.github.io)** and I own [Tristable](https://github.com/Tristable).
 
