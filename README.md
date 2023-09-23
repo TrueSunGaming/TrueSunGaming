@@ -1,6 +1,6 @@
 # Hi! I'm Matthew, known online as TrueSunGaming.
 
-I mainly work with JavaScript, [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/), C++, [SvelteKit](https://kit.svelte.dev/), and [Godot](https://godotengine.org/).
+I mainly work with JavaScript, [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Tauri](https://tauri.app/), and [Godot](https://godotengine.org/).
 
 You can find my projects **[here](https://truesungaming.github.io)** and I own [Tristable](https://github.com/Tristable).
 
