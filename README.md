@@ -1,8 +1,8 @@
 # Hi! I'm Matthew, known online as TrueSunGaming.
 
-I mainly work with JavaScript, [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Tauri](https://tauri.app/), and [Godot](https://godotengine.org/).
+I mainly work with [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Tauri](https://tauri.app/), [Godot](https://godotengine.org/), and [SDL2](https://libsdl.org).
 
-You can find my projects **[here](https://truesungaming.github.io)** and I own [Tristable](https://github.com/Tristable).
+You can find my projects **[here](https://truesungaming.github.io)** and I am the CEO and founder of [Tristable](https://github.com/Tristable).
 
 ## Some Stuff I Made
 
@@ -14,6 +14,6 @@ You can find my projects **[here](https://truesungaming.github.io)** and I own [
 
 ## GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=TrueSunGaming&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
+![](https://github-readme-stats.vercel.app/api?username=TrueSunGaming&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
