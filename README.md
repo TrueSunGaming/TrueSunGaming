@@ -1,6 +1,6 @@
 # Hi! I'm Matthew, known online as TrueSunGaming.
 
-I mainly work with [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Tauri](https://tauri.app/), [Godot](https://godotengine.org/), and [SDL2](https://libsdl.org).
+I mainly work with [TypeScript](https://www.typescriptlang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Godot](https://godotengine.org/), and [SDL2](https://libsdl.org).
 
 You can find my projects **[here](https://truesungaming.github.io)** and I am the CEO and founder of [Tristable](https://github.com/Tristable).
 
