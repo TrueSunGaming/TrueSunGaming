@@ -2,7 +2,7 @@
 
 I mainly work with [TypeScript](https://www.typescriptlang.org/), C++, [SvelteKit](https://kit.svelte.dev/), [Godot](https://godotengine.org/), and [SDL2](https://libsdl.org).
 
-You can find my projects **[here](https://truesungaming.github.io)** and I am the CEO and founder of [Tristable](https://github.com/Tristable).
+You can find my projects **[here](https://truesungaming.github.io)** and I am the creator of [Tristable](https://github.com/Tristable).
 
 ## Some Stuff I Made
 
