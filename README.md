@@ -8,6 +8,7 @@ You can find my projects **[here](https://truesungaming.github.io)** and I am th
 
 * [Website](https://truesungaming.github.io) ([Source Code](https://github.com/TrueSunGaming/truesungaming.github.io)) - A page with links to everything I made.
 * [Desmos Expression Compiler](https://truesungaming.github.io/desmos-expression-compiler) ([Source Code](https://github.com/TrueSunGaming/desmos-expression-compiler)) - A Lisp-like programming language and code editor for creating [Desmos](https://desmos.com/calculator) graphs.
+* [Desmos Expression Compiler 2](https://dec2.netlify.app) ([Source Code](https://github.com/TrueSunGaming/dec-2)) - An improved, C-like variant of the original Desmos Expression Compiler.
 * [Learn Pi](https://truesungaming.github.io/learn-pi) ([Source Code](https://github.com/TrueSunGaming/learn-pi)) - A fun way to learn up to 1000 digits of pi.
 * [Tristable Engine](https://npmjs.org/package/tristable-engine) ([Source Code](https://github.com/Tristable/tristable-engine)) - A 2D JS/TS game engine for making simple HTML5 games.
 * [Logic Sim](https://tsg-logic-sim.netlify.app) ([Source Code](https://github.com/TrueSunGaming/logic-sim)) - A digital logic simulator made in Godot 4.
