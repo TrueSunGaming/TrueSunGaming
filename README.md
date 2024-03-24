@@ -13,8 +13,6 @@ You can find my projects **[here](https://truesungaming.github.io)** and I am th
 * [Tristable Engine](https://npmjs.org/package/tristable-engine) ([Source Code](https://github.com/Tristable/tristable-engine)) - A 2D JS/TS game engine for making simple HTML5 games.
 * [Logic Sim](https://tsg-logic-sim.netlify.app) ([Source Code](https://github.com/TrueSunGaming/logic-sim)) - A digital logic simulator made in Godot 4.
 
-## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TrueSunGaming&show_icons=true&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=TrueSunGaming&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TrueSunGaming&theme=dark&icon_color=ff8000&title_color=ff8000&text_color=ffffff&border_color=ff8000)
